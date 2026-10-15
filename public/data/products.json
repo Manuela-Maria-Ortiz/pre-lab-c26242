@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Zuccardi Botánico Chardonnay",
+    "description": "Vino blanco premium del Valle de Uco, fresco, elegante y de perfil mineral.",
+    "price": 89500,
+    "image": "/images/public/img/footware/vino-chardonnay-zuccardi-botanico-750-ml (1).jpg",
+    "category": "Blanco"
+  },
+  {
+    "id": 2,
+    "name": "Chakana Sobrenatural Sauvignon Blanc",
+    "description": "Vino blanco de Mendoza, elaborado con Sauvignon Blanc de maceración prolongada.",
+    "price": 128400,
+    "image": "/images/chakana-sobrenatural.jpg",
+    "category": "Blanco"
+  },
+  {
+    "id": 3,
+    "name": "Zuccardi Finca Piedra Infinita",
+    "description": "Malbec premium de Paraje Altamira, Valle de Uco, de gran estructura y mineralidad.",
+    "price": 225000,
+    "image": "/images/piedra-infinita.jpg",
+    "category": "Tinto"
+  },
+  {
+    "id": 4,
+    "name": "Zuccardi Finca Canal Uco",
+    "description": "Malbec premium de Paraje Altamira, elaborado con uvas seleccionadas y de gran elegancia.",
+    "price": 205000,
+    "image": "/images/canal-uco.jpg",
+    "category": "Tinto"
+  },
+  {
+    "id": 5,
+    "name": "Diamandes L'Argentin de Malartic Rosé",
+    "description": "Vino rosado premium de Mendoza, delicado, fresco y elegante.",
+    "price": 105600,
+    "image": "/images/diamandes-rose.jpg",
+    "category": "Rosado"
+  },
+  {
+    "id": 6,
+    "name": "Rutini Colección Rosé",
+    "description": "Vino rosado premium del Valle de Uco, fresco, aromático y elegante.",
+    "price": 43350,
+    "image": "/images/rutini-rose.jpg",
+    "category": "Rosado"
+  }
+]
